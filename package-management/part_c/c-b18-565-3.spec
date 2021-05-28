@@ -1,10 +1,10 @@
-Name:       c-b16-505-12
+Name:       c-b18-565-3
 Version:    1.0
 Release:    1%{?dist}
-Summary:    Nurdilda Gabiden ... B16-505 ...
+Summary:    Rustamov Bekhruz ... B18-565 ...
 Group:      Testing
 License:    GPL
-URL:        https://github.com/Nurdildag/my-rpm-package
+URL:        https://github.com/RustamovBN/my-rpm-package
 Source:     %{name}-%{version}.tar.gz
 BuildRequires: gcc
 
