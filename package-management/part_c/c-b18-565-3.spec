@@ -15,7 +15,7 @@ A test package
 %setup -q
 
 %build
-gcc -O2 -o c-b16-505-12 c-b16-505-12.c
+gcc -O2 -o c-b18-565-3 c-b18-565-3.c
 
 %install
 mkdir -p %{buildroot}%{_bindir}
