@@ -19,11 +19,11 @@ gcc -O2 -o c-b16-505-12 c-b16-505-12.c
 
 %install
 mkdir -p %{buildroot}%{_bindir}
-cp c-b16-505-19.c %{buildroot}%{_bindir}
+cp c-b18-565-21.c %{buildroot}%{_bindir}
 
 %files
-%{_bindir}/c-b16-505-12.c
+%{_bindir}/c-b18-565-3.c
 
 %changelog
-* Mon May 20 2019 Nurdilda
-- Added %{_bindir}/c-b16-505-12.c
+* Fri May 28 2021 Rustamov
+- Added %{_bindir}/c-b18-565-3.c
